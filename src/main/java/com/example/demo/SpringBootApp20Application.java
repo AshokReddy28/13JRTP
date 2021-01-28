@@ -10,4 +10,6 @@ public class SpringBootApp20Application {
 		SpringApplication.run(SpringBootApp20Application.class, args);
 	}
 
+	int a=10;
+
 }
