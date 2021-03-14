@@ -11,5 +11,6 @@ public class SpringBootApp20Application {
 	}
 
 	int a=10;
+	int b=20;
 
 }
